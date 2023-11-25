@@ -1,5 +1,5 @@
 # killzwitch
-## A CommandLine Discord webhook tool
+## A Command Line Discord webhook tool
 ![Logo](kz.jpeg)
 
 It has many features, msg sets the text, name sets the name of the webhook and more:
