@@ -4,7 +4,7 @@
 
 It has many features, msg sets the text, name sets the name of the webhook and more:
 
-![list](cmds.jpeg)
+![list](list.jpeg)
 
 It also has an embed creator with the following options:
 
