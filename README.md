@@ -1,0 +1,2 @@
+# killzwitch
+Discord webhook tool
